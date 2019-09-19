@@ -17,7 +17,7 @@ eureka:
 server:
   port: 6002
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: config-client-test
 eureka:
